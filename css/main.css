@@ -1,0 +1,49 @@
+
+#heading {
+  color: white;
+  background-color: #000000;
+  letter-spacing: 0.5em;
+  font-family: Helvetica;
+  font-size: 1.25em;
+  text-transform: uppercase;
+}
+
+#subheading {
+  color: white;
+  background-color: #ab1212;
+  font-family: Helvetica;
+}
+
+#education {
+  color: white;
+  background-color: #ef962d;
+  font-family: Helvetica;
+}
+
+#experience {
+  color: white;
+  background-color: #f1bc31;
+  font-family: Helvetica;
+}
+
+#skills {
+  color: white;
+  background-color: #5b8c5a;
+  font-family: Helvetica;
+}
+
+#online-learning {
+  color: white;
+  background-color: #3282b8;
+  font-family: Helvetica;
+}
+
+#projects {
+  color: white;
+  background-color: #745c97;
+  font-family: Helvetica;
+}
+
+a {
+  color: white;
+}
